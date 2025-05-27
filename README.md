@@ -1,7 +1,7 @@
 # app_riesgo_crediticio
-Fraud Detection App
+*Fraud Detection App*
 
-# Clasificador de riesgo de crédito
+## Clasificador de riesgo de crédito
 
 App en Streamlit para predecir si un cliente va a incumplir su pago el próximo mes, basada en XGBoost y aprendizaje supervisado.
 
