@@ -101,6 +101,7 @@ El logo de la app representa seguridad y tecnología antifraude, aportando ident
 ## 🤝 Autores y créditos
 
 Este proyecto fue desarrollado como parte de un TFM de Machine Learning para detección de fraude crediticio, combinando visualización interactiva, interpretabilidad y despliegue ágil.
+Autores: Rubén Díaz (@Rubendiaro), Jimena Pérez-Calderón
 
 ---
 
